@@ -2,8 +2,6 @@
 
 A modern, interactive subnet calculator built with React and TypeScript that helps network administrators and IT professionals calculate and visualize IP subnets. Features a clean, responsive UI with dark/light mode support.
 
-![Visual Subnet Calculator](screenshot.png)
-
 ## Features
 
 - 🌐 Calculate subnet details including:
